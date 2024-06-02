@@ -1,8 +1,3 @@
-# MoonFlix
-
-    Fullstack Responsive Movie Website 2022
-
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
